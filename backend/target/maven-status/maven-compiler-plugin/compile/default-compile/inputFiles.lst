@@ -1,0 +1,11 @@
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\config\CorsConfig.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\config\JWTAuthFilter.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\config\SecurityConfig.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\controller\UserManagementController.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\dto\ReqRes.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\entity\OurUsers.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\repository\UsersRepo.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\service\JWTUtils.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\service\OurUserDetailsService.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\service\UsersManagementService.java
+C:\xampp\htdocs\ExoLy\java-react\users-management-system\spring-boot + react\backend\src\main\java\com\phegondev\usersmanagementsystem\UsersmanagementsystemApplication.java
